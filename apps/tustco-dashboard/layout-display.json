@@ -1,0 +1,26 @@
+{
+  "theme": "lcars",
+  "display": true,
+  "cards": [
+    { "id": "d-clock", "type": "clock", "title": "LOCAL TIME", "x": 16, "y": 12, "w": 280, "h": 140 },
+    { "id": "d-group", "type": "group", "title": "LIVING ROOM", "x": 16, "y": 164, "w": 280, "h": 240,
+      "entities": ["media_player.samsung_6_series_55", "media_player.living_room_display", "media_player.tv_samsung_4_series_32"] },
+    { "id": "d-tv55", "type": "media", "title": "CURVED TV 55", "x": 312, "y": 12, "w": 220, "h": 170,
+      "entity": "media_player.samsung_6_series_55" },
+    { "id": "d-lenovo", "type": "media", "title": "THIS DISPLAY", "x": 540, "y": 12, "w": 220, "h": 170,
+      "entity": "media_player.living_room_display" },
+    { "id": "d-tv32", "type": "media", "title": "TV 32", "x": 768, "y": 12, "w": 240, "h": 170,
+      "entity": "media_player.tv_samsung_4_series_32" },
+    { "id": "d-chart", "type": "chart", "title": "PRINTER HISTORY - 24 HOURS", "x": 312, "y": 196, "w": 696, "h": 208,
+      "entities": ["sensor.hl_l2360d_black_toner_remaining", "sensor.hl_l2360d_page_counter",
+                   "sensor.hl_l2360d_drum_remaining_life"], "hours": 24 },
+    { "id": "d-toner", "type": "state", "title": "TONER", "x": 16, "y": 416, "w": 180, "h": 130,
+      "entity": "sensor.hl_l2360d_black_toner_remaining" },
+    { "id": "d-pages", "type": "state", "title": "PAGES", "x": 204, "y": 416, "w": 180, "h": 130,
+      "entity": "sensor.hl_l2360d_page_counter" },
+    { "id": "d-drum", "type": "state", "title": "DRUM", "x": 392, "y": 416, "w": 180, "h": 130,
+      "entity": "sensor.hl_l2360d_drum_remaining_life" },
+    { "id": "d-note", "type": "text", "title": "SYSTEM STATUS", "x": 580, "y": 416, "w": 428, "h": 130,
+      "text": "TUSTCO LOCAL HOME - runs on the Raspberry Pi.\nNo cloud. No account. No telemetry." }
+  ]
+}

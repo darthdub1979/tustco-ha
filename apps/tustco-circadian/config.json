@@ -1,0 +1,83 @@
+{
+  "name": "Tustco Circadian",
+  "version": "alpha3",
+  "devices": [
+    "192.168.1.234",
+    "192.168.1.219"
+  ],
+  "interval_seconds": 30,
+  "keyframes": [
+    {"time": "00:00", "color": "FF8C3A", "dimmer": 20},
+    {"time": "24:00", "color": "FF8C3A", "dimmer": 20}
+  ],
+  "sun_events": {
+    "enabled": true,
+    "latitude": 32.2226,
+    "longitude": -110.9747,
+    "pre_sunrise_minutes": 30,
+    "post_sunrise_minutes": 90,
+    "pre_sunset_minutes": 60,
+    "post_sunset_minutes": 60,
+    "pre_sunrise": {"color": "FF8C3A", "dimmer": 25},
+    "sunrise": {"color": "FFD1A0", "dimmer": 55},
+    "morning": {"color": "FFF2D5", "dimmer": 85},
+    "golden_hour": {"color": "FFF2D5", "dimmer": 80},
+    "sunset": {"color": "FFD1A0", "dimmer": 55},
+    "after_sunset": {"color": "FF8C3A", "dimmer": 30}
+  },
+  "moon": {
+    "enabled": true,
+    "min_illumination": 90,
+    "start_offset_minutes": 60,
+    "end": "23:30",
+    "color": "6E8CFF",
+    "dimmer": 25
+  },
+  "sky_events": {
+    "enabled": true,
+    "catalog": "eclipses.json",
+    "utc_offset_hours": -7,
+    "longitude": -110.9747,
+    "solar_eclipse_local_only": true,
+    "solar_window_minutes": 90,
+    "sunset_offset_minutes": 60,
+    "night_end": "23:30",
+    "day_window_minutes": 180,
+    "supermoon_max_distance_km": 362000,
+    "priority": [
+      "solar-eclipse",
+      "total-lunar-eclipse",
+      "partial-lunar-eclipse",
+      "penumbral-lunar-eclipse",
+      "blue-moon",
+      "supermoon",
+      "solstice",
+      "equinox"
+    ],
+    "events": {
+      "solar-eclipse": {"color": "FF5A1F", "dimmer": 15},
+      "total-lunar-eclipse": {"color": "A31515", "dimmer": 30},
+      "partial-lunar-eclipse": {"color": "B84A2A", "dimmer": 30},
+      "penumbral-lunar-eclipse": {"color": "C98A5A", "dimmer": 35},
+      "blue-moon": {"color": "3B5BFF", "dimmer": 22},
+      "supermoon": {"color": "FFF0C4", "dimmer": 40},
+      "solstice": {"color": "FFC36B", "dimmer": 65},
+      "equinox": {"color": "E8F0FF", "dimmer": 55}
+    }
+  },
+  "presets": {
+    "candle": {"color": "FF8C3A", "dimmer": 25},
+    "warm": {"color": "FFD1A0", "dimmer": 60},
+    "crisp": {"color": "FFF2D5", "dimmer": 85},
+    "daylight": {"color": "EAF2FF", "dimmer": 100},
+    "jade": {"color": "33C68A", "dimmer": 78},
+    "teal": {"color": "008080", "dimmer": 50},
+    "cardinal": {"color": "C00000", "dimmer": 75},
+    "white": {"color": "FFFFFF", "dimmer": 100},
+    "moon": {"color": "6E8CFF", "dimmer": 25},
+    "eclipse": {"color": "FF5A1F", "dimmer": 15},
+    "blood-moon": {"color": "A31515", "dimmer": 30},
+    "blue-moon": {"color": "3B5BFF", "dimmer": 22},
+    "supermoon": {"color": "FFF0C4", "dimmer": 40}
+  }
+}

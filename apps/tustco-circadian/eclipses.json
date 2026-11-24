@@ -1,0 +1,1200 @@
+{
+ "name": "Tustco Circadian eclipse catalog",
+ "range": "2020-2050",
+ "retrieved": "2026-11-24",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_solar_eclipses_in_the_21st_century",
+  "https://en.wikipedia.org/wiki/List_of_lunar_eclipses_in_the_21st_century"
+ ],
+ "note": "Predictions by Fred Espenak / NASA Goddard. Times converted from Terrestrial Time to approximate UTC by subtracting 69 s Delta T. Cached locally; no runtime network needed.",
+ "events": [
+  {
+   "kind": "lunar",
+   "date": "2020-01-10",
+   "utc": "2020-01-10T19:08:50Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8969",
+   "umbral_magnitude": "\u22120.1146"
+  },
+  {
+   "kind": "lunar",
+   "date": "2020-06-05",
+   "utc": "2020-06-05T19:23:53Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.5699",
+   "umbral_magnitude": "\u22120.4036"
+  },
+  {
+   "kind": "solar",
+   "date": "2020-06-21",
+   "utc": "2020-06-21T06:40:06Z",
+   "type": "Annular",
+   "magnitude": "0.994",
+   "region": "Annular: Democratic Republic of the Congo, South Sudan, Ethiopia, Eritrea, Yemen, Saudi Arabia, Oman, Pakistan, Northern India, Tibet, southern China, Taiwan Partial: Africa, Southeast Europe, Asia, Northern Australia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2020-07-05",
+   "utc": "2020-07-05T04:28:51Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.3560",
+   "umbral_magnitude": "\u22120.6422"
+  },
+  {
+   "kind": "lunar",
+   "date": "2020-11-30",
+   "utc": "2020-11-30T09:41:40Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8302",
+   "umbral_magnitude": "\u22120.2602"
+  },
+  {
+   "kind": "solar",
+   "date": "2020-12-14",
+   "utc": "2020-12-14T16:13:30Z",
+   "type": "Total",
+   "magnitude": "1.0254",
+   "region": "Total: Southern Chile and Argentina Partial: Central and Southern South America, Southern Africa, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2021-05-26",
+   "utc": "2021-05-26T11:17:31Z",
+   "type": "Total",
+   "penumbral_magnitude": "1.9558",
+   "umbral_magnitude": "1.0112"
+  },
+  {
+   "kind": "solar",
+   "date": "2021-06-10",
+   "utc": "2021-06-10T10:41:58Z",
+   "type": "Annular",
+   "magnitude": "0.9435",
+   "region": "Annular: Ontario, Nunavut, Greenland, North Pole, Russian Far East Partial: Northern North America, Europe, North Asia",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2021-11-19",
+   "utc": "2021-11-19T09:01:44Z",
+   "type": "Partial",
+   "penumbral_magnitude": "2.0738",
+   "umbral_magnitude": "0.9760"
+  },
+  {
+   "kind": "solar",
+   "date": "2021-12-04",
+   "utc": "2021-12-04T07:33:29Z",
+   "type": "Total",
+   "magnitude": "1.0367",
+   "region": "Total: Antarctica Partial: Southern Africa, Antarctica, Tasmania",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2022-04-30",
+   "utc": "2022-04-30T20:41:27Z",
+   "type": "Partial",
+   "magnitude": "0.6396",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2022Apr30P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2022-05-16",
+   "utc": "2022-05-16T04:10:19Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.3743",
+   "umbral_magnitude": "1.4155"
+  },
+  {
+   "kind": "solar",
+   "date": "2022-10-25",
+   "utc": "2022-10-25T11:00:11Z",
+   "type": "Partial",
+   "magnitude": "0.8623",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2022Oct25P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2022-11-08",
+   "utc": "2022-11-08T10:58:00Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.4162",
+   "umbral_magnitude": "1.3607"
+  },
+  {
+   "kind": "solar",
+   "date": "2023-04-20",
+   "utc": "2023-04-20T04:16:47Z",
+   "type": "Hybrid",
+   "magnitude": "1.0132",
+   "region": "Total: Western Australia, East Timor, Indonesia Partial: Antarctica, Australia, Oceania, Southeast Asia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2023-05-05",
+   "utc": "2023-05-05T17:21:42Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9655",
+   "umbral_magnitude": "\u22120.0438"
+  },
+  {
+   "kind": "solar",
+   "date": "2023-10-14",
+   "utc": "2023-10-14T17:59:32Z",
+   "type": "Annular",
+   "magnitude": "0.952",
+   "region": "Annular: Oregon, California, Nevada, Idaho, Utah, Arizona, Colorado, New Mexico, Texas, Yucat\u00e1n Peninsula, Belize, Honduras, Nicaragua, Costa Rica, Panama, Colombia, Brazil Partial: North America, Central America, Caribbean, South America",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2023-10-28",
+   "utc": "2023-10-28T20:12:54Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.1200",
+   "umbral_magnitude": "0.1234"
+  },
+  {
+   "kind": "lunar",
+   "date": "2024-03-25",
+   "utc": "2024-03-25T07:11:36Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9577",
+   "umbral_magnitude": "\u22120.1304"
+  },
+  {
+   "kind": "solar",
+   "date": "2024-04-08",
+   "utc": "2024-04-08T18:17:20Z",
+   "type": "Total",
+   "magnitude": "1.0566",
+   "region": "Total: Mexico, Texas, Oklahoma, Arkansas, Missouri, Tennessee,[\\[c\\]](#cite_note-11) Kentucky, Illinois, Indiana, Ohio, Michigan, Pennsylvania, New York \"New York (state)\"), Vermont, New Hampshire, Maine, Eastern Canada Partial: Eastern Oceania, Hawaii, North America, Central America, Caribbean, Iceland, British Isles",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2024-09-18",
+   "utc": "2024-09-18T02:43:05Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.0392",
+   "umbral_magnitude": "0.0869"
+  },
+  {
+   "kind": "solar",
+   "date": "2024-10-02",
+   "utc": "2024-10-02T18:45:04Z",
+   "type": "Annular",
+   "magnitude": "0.9326",
+   "region": "Annular: Easter Island, Southern Chile, Southern Argentina Partial: Hawaii, Eastern Oceania, Southern and Central South America, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2025-03-14",
+   "utc": "2025-03-14T06:57:36Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2614",
+   "umbral_magnitude": "1.1804"
+  },
+  {
+   "kind": "solar",
+   "date": "2025-03-29",
+   "utc": "2025-03-29T10:47:27Z",
+   "type": "Partial",
+   "magnitude": "0.9376",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2025Mar29P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2025-09-07",
+   "utc": "2025-09-07T18:10:34Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.3459",
+   "umbral_magnitude": "1.3638"
+  },
+  {
+   "kind": "solar",
+   "date": "2025-09-21",
+   "utc": "2025-09-21T19:41:55Z",
+   "type": "Partial",
+   "magnitude": "0.855",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2025Sep21P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2026-02-17",
+   "utc": "2026-02-17T12:11:57Z",
+   "type": "Annular",
+   "magnitude": "0.963",
+   "region": "Annular: Antarctica Partial: Southern Argentina and Chile, Southern Africa, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2026-03-03",
+   "utc": "2026-03-03T11:32:28Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.1858",
+   "umbral_magnitude": "1.1526"
+  },
+  {
+   "kind": "solar",
+   "date": "2026-08-12",
+   "utc": "2026-08-12T17:45:57Z",
+   "type": "Total",
+   "magnitude": "1.0386",
+   "region": "Total: Greenland, Iceland, Spain, Northeastern Portugal Partial: Northern North America, Europe, West Africa",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2026-08-28",
+   "utc": "2026-08-28T04:11:40Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.9664",
+   "umbral_magnitude": "0.9319"
+  },
+  {
+   "kind": "solar",
+   "date": "2027-02-06",
+   "utc": "2027-02-06T15:59:39Z",
+   "type": "Annular",
+   "magnitude": "0.9281",
+   "region": "Annular: Chile, Argentina, Atlantic Partial: South America, Antarctica, West and South Africa",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2027-02-20",
+   "utc": "2027-02-20T23:11:42Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9286",
+   "umbral_magnitude": "\u22120.0549"
+  },
+  {
+   "kind": "lunar",
+   "date": "2027-07-18",
+   "utc": "2027-07-18T16:01:44Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.0032",
+   "umbral_magnitude": "\u22121.0662"
+  },
+  {
+   "kind": "solar",
+   "date": "2027-08-02",
+   "utc": "2027-08-02T10:06:41Z",
+   "type": "Total",
+   "magnitude": "1.079",
+   "region": "Total: Morocco, Spain, Algeria, Tunisia, Libya, Egypt, Saudi Arabia, Yemen, Somalia Partial: Africa, Europe, Middle East, South Asia, Southeast Asia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2027-08-17",
+   "utc": "2027-08-17T07:12:34Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.5476",
+   "umbral_magnitude": "\u22120.5234"
+  },
+  {
+   "kind": "lunar",
+   "date": "2028-01-12",
+   "utc": "2028-01-12T04:11:48Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.0485",
+   "umbral_magnitude": "0.0679"
+  },
+  {
+   "kind": "solar",
+   "date": "2028-01-26",
+   "utc": "2028-01-26T15:07:50Z",
+   "type": "Annular",
+   "magnitude": "0.9208",
+   "region": "Annular: Ecuador, Peru, Colombia, Brazil, French Guiana, Portugal, Spain Partial: Central and Northern South America, Central America, Caribbean, Eastern North America, Western Europe, West Africa",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2028-07-06",
+   "utc": "2028-07-06T18:18:32Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.4282",
+   "umbral_magnitude": "0.3908"
+  },
+  {
+   "kind": "solar",
+   "date": "2028-07-22",
+   "utc": "2028-07-22T02:55:31Z",
+   "type": "Total",
+   "magnitude": "1.056",
+   "region": "Total: Australia, New Zealand Partial: Southeast Asia, Australia, Oceania",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2028-12-31",
+   "utc": "2028-12-31T16:50:49Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2758",
+   "umbral_magnitude": "1.2479"
+  },
+  {
+   "kind": "solar",
+   "date": "2029-01-14",
+   "utc": "2029-01-14T17:12:39Z",
+   "type": "Partial",
+   "magnitude": "0.8714",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2029Jan14P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2029-06-12",
+   "utc": "2029-06-12T04:05:04Z",
+   "type": "Partial",
+   "magnitude": "0.4576",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2029Jun12P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2029-06-26",
+   "utc": "2029-06-26T03:20:56Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.8282",
+   "umbral_magnitude": "1.8452"
+  },
+  {
+   "kind": "solar",
+   "date": "2029-07-11",
+   "utc": "2029-07-11T15:36:10Z",
+   "type": "Partial",
+   "magnitude": "0.2303",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2029Jul11P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2029-12-05",
+   "utc": "2029-12-05T15:02:49Z",
+   "type": "Partial",
+   "magnitude": "0.8911",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2029Dec05P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2029-12-20",
+   "utc": "2029-12-20T22:42:03Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2023",
+   "umbral_magnitude": "1.1190"
+  },
+  {
+   "kind": "solar",
+   "date": "2030-06-01",
+   "utc": "2030-06-01T06:28:04Z",
+   "type": "Annular",
+   "magnitude": "0.9443",
+   "region": "Annular: Algeria, Tunisia, Libya, Malta, Greece, Turkey, Bulgaria, Ukraine, Russia, Kazakhstan, China, Japan Partial: North Africa, Europe, Asia, Alaska, Northern Canada",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2030-06-15",
+   "utc": "2030-06-15T18:33:25Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.4495",
+   "umbral_magnitude": "0.5025"
+  },
+  {
+   "kind": "solar",
+   "date": "2030-11-25",
+   "utc": "2030-11-25T06:50:28Z",
+   "type": "Total",
+   "magnitude": "1.0468",
+   "region": "Total: Namibia, Botswana, South Africa, Lesotho, Australia Partial: Central Africa, Southern Africa, Antarctica, Australia, Indonesia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2030-12-09",
+   "utc": "2030-12-09T22:27:42Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9430",
+   "umbral_magnitude": "\u22120.1613"
+  },
+  {
+   "kind": "lunar",
+   "date": "2031-05-07",
+   "utc": "2031-05-07T03:39:54Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8827",
+   "umbral_magnitude": "\u22120.0892"
+  },
+  {
+   "kind": "solar",
+   "date": "2031-05-21",
+   "utc": "2031-05-21T07:14:55Z",
+   "type": "Annular",
+   "magnitude": "0.9589",
+   "region": "Annular: Angola, Zambia, Democratic Republic of the Congo, Tanzania, India, Sri Lanka, Andaman and Nicobar Islands, Thailand, Malaysia, Indonesia Partial: Africa, Middle East, South Asia, Southeast Asia, Australia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2031-06-05",
+   "utc": "2031-06-05T11:44:08Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.1306",
+   "umbral_magnitude": "\u22120.8185"
+  },
+  {
+   "kind": "lunar",
+   "date": "2031-10-30",
+   "utc": "2031-10-30T07:45:36Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.7173",
+   "umbral_magnitude": "\u22120.3193"
+  },
+  {
+   "kind": "solar",
+   "date": "2031-11-14",
+   "utc": "2031-11-14T21:06:22Z",
+   "type": "Hybrid",
+   "magnitude": "1.0106",
+   "region": "Annular: Panama Partial: Oceania, Hawaii, Southern North America, Central America, Caribbean, Northwestern South America",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2032-04-25",
+   "utc": "2032-04-25T15:13:42Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2204",
+   "umbral_magnitude": "1.1925"
+  },
+  {
+   "kind": "solar",
+   "date": "2032-05-09",
+   "utc": "2032-05-09T13:25:33Z",
+   "type": "Annular",
+   "magnitude": "0.9957",
+   "region": "Annular: None Partial: Southern South America, Southern Africa",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2032-10-18",
+   "utc": "2032-10-18T19:02:31Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.0841",
+   "umbral_magnitude": "1.1039"
+  },
+  {
+   "kind": "solar",
+   "date": "2032-11-03",
+   "utc": "2032-11-03T05:33:04Z",
+   "type": "Partial",
+   "magnitude": "0.8554",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2032Nov03P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2033-03-30",
+   "utc": "2033-03-30T18:01:27Z",
+   "type": "Total",
+   "magnitude": "1.0462",
+   "region": "Total: Russian Far East, Alaska Partial: Eastern Russia, Hawaii, North America, Greenland, Iceland",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2033-04-14",
+   "utc": "2033-04-14T19:12:42Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.1722",
+   "umbral_magnitude": "1.0955"
+  },
+  {
+   "kind": "solar",
+   "date": "2033-09-23",
+   "utc": "2033-09-23T13:53:22Z",
+   "type": "Partial",
+   "magnitude": "0.689",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2033Sep23P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2033-10-08",
+   "utc": "2033-10-08T10:55:14Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.3068",
+   "umbral_magnitude": "1.3508"
+  },
+  {
+   "kind": "solar",
+   "date": "2034-03-20",
+   "utc": "2034-03-20T10:17:36Z",
+   "type": "Total",
+   "magnitude": "1.0458",
+   "region": "Total: Nigeria, Cameroon, Chad, Sudan, Egypt, Saudi Arabia, Kuwait, Iran, Afghanistan, Pakistan, India, China Partial: Eastern Brazil, Africa, Europe, Middle East, Central Asia, South Asia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2034-04-03",
+   "utc": "2034-04-03T19:05:50Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8557",
+   "umbral_magnitude": "\u22120.2263"
+  },
+  {
+   "kind": "solar",
+   "date": "2034-09-12",
+   "utc": "2034-09-12T16:18:19Z",
+   "type": "Annular",
+   "magnitude": "0.9736",
+   "region": "Annular: Chile, Bolivia, Argentina, Paraguay, Brazil Partial: Central America, Caribbean, South America, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2034-09-28",
+   "utc": "2034-09-28T02:46:28Z",
+   "type": "Partial",
+   "penumbral_magnitude": "0.9922",
+   "umbral_magnitude": "0.0155"
+  },
+  {
+   "kind": "lunar",
+   "date": "2035-02-22",
+   "utc": "2035-02-22T09:05:03Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9663",
+   "umbral_magnitude": "\u22120.0523"
+  },
+  {
+   "kind": "solar",
+   "date": "2035-03-09",
+   "utc": "2035-03-09T23:04:45Z",
+   "type": "Annular",
+   "magnitude": "0.9919",
+   "region": "Annular: New Zealand Partial: Australia, Oceania, Antarctica, Central Mexico",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2035-08-19",
+   "utc": "2035-08-19T01:11:06Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.1519",
+   "umbral_magnitude": "0.1049"
+  },
+  {
+   "kind": "solar",
+   "date": "2035-09-02",
+   "utc": "2035-09-02T01:55:37Z",
+   "type": "Total",
+   "magnitude": "1.032",
+   "region": "Total: Northern China, North Korea, Japan Partial: Asia, Northern Oceania, Hawaii, Alaska, Western United States",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2036-02-11",
+   "utc": "2036-02-11T22:11:57Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2762",
+   "umbral_magnitude": "1.3007"
+  },
+  {
+   "kind": "solar",
+   "date": "2036-02-27",
+   "utc": "2036-02-27T04:45:40Z",
+   "type": "Partial",
+   "magnitude": "0.6286",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2036Feb27P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2036-07-23",
+   "utc": "2036-07-23T10:30:57Z",
+   "type": "Partial",
+   "magnitude": "0.1991",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2036Jul23P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2036-08-07",
+   "utc": "2036-08-07T02:51:23Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.5279",
+   "umbral_magnitude": "1.4556"
+  },
+  {
+   "kind": "solar",
+   "date": "2036-08-21",
+   "utc": "2036-08-21T17:24:36Z",
+   "type": "Partial",
+   "magnitude": "0.8622",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2036Aug21P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2037-01-16",
+   "utc": "2037-01-16T09:47:46Z",
+   "type": "Partial",
+   "magnitude": "0.7049",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2037Jan16P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2037-01-31",
+   "utc": "2037-01-31T13:59:07Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.1815",
+   "umbral_magnitude": "1.2086"
+  },
+  {
+   "kind": "solar",
+   "date": "2037-07-13",
+   "utc": "2037-07-13T02:39:27Z",
+   "type": "Total",
+   "magnitude": "1.0413",
+   "region": "Total: Australia and New Zealand Partial: Indonesia, Australia, Oceania",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2037-07-27",
+   "utc": "2037-07-27T04:08:44Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.8597",
+   "umbral_magnitude": "0.8108"
+  },
+  {
+   "kind": "solar",
+   "date": "2038-01-05",
+   "utc": "2038-01-05T13:46:02Z",
+   "type": "Annular",
+   "magnitude": "0.9728",
+   "region": "Annular: Cuba, Haiti, Dominican Republic, Saint Lucia, Saint Vincent and the Grenadines, Barbados, Liberia, C\u00f4te d'Ivoire, Ghana, Togo, Benin, Nigeria, Niger, Chad, Libya, Sudan, Egypt Partial: Eastern North America, Central America, Caribbean, Northern South America, Europe, Africa",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2038-01-21",
+   "utc": "2038-01-21T03:48:43Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9009",
+   "umbral_magnitude": "\u22120.1127"
+  },
+  {
+   "kind": "lunar",
+   "date": "2038-06-17",
+   "utc": "2038-06-17T02:42:35Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.4438",
+   "umbral_magnitude": "\u22120.5259"
+  },
+  {
+   "kind": "solar",
+   "date": "2038-07-02",
+   "utc": "2038-07-02T13:31:46Z",
+   "type": "Annular",
+   "magnitude": "0.9911",
+   "region": "Annular: Colombia, Venezuela, Grenada, Barbados, Western Sahara, Mauritania, Mali, Algeria, Niger, Chad, Sudan, South Sudan, Ethiopia, Kenya, Somalia Partial: Eastern North America, Central America, Caribbean, Northern South America, Africa, Western Europe, Middle East",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2038-07-16",
+   "utc": "2038-07-16T11:34:47Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.5013",
+   "umbral_magnitude": "\u22120.4938"
+  },
+  {
+   "kind": "lunar",
+   "date": "2038-12-11",
+   "utc": "2038-12-11T17:43:51Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8062",
+   "umbral_magnitude": "\u22120.2876"
+  },
+  {
+   "kind": "solar",
+   "date": "2038-12-26",
+   "utc": "2038-12-26T00:59:01Z",
+   "type": "Total",
+   "magnitude": "1.0268",
+   "region": "Total: Australia, New Zealand Partial: Southeast Asia, Australia, Antarctica, Oceania",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2039-06-06",
+   "utc": "2039-06-06T18:53:16Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.8289",
+   "umbral_magnitude": "0.8863"
+  },
+  {
+   "kind": "solar",
+   "date": "2039-06-21",
+   "utc": "2039-06-21T17:11:45Z",
+   "type": "Annular",
+   "magnitude": "0.9454",
+   "region": "Annular: Alaska, Northern Canada, Greenland, Norway, Sweden, Finland, Estonia, Latvia, Lithuania, Western Russia, Belarus Partial: Hawaii, North America, Europe, Northwest Africa, Northern Russia",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2039-11-30",
+   "utc": "2039-11-30T16:55:19Z",
+   "type": "Partial",
+   "penumbral_magnitude": "2.0435",
+   "umbral_magnitude": "0.9443"
+  },
+  {
+   "kind": "solar",
+   "date": "2039-12-15",
+   "utc": "2039-12-15T16:22:37Z",
+   "type": "Total",
+   "magnitude": "1.0356",
+   "region": "Total: Antarctica Partial: Extreme Southern South America, Southern South Africa, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2040-05-11",
+   "utc": "2040-05-11T03:41:53Z",
+   "type": "Partial",
+   "magnitude": "0.5306",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2040May11P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2040-05-26",
+   "utc": "2040-05-26T11:45:13Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.4955",
+   "umbral_magnitude": "1.5365"
+  },
+  {
+   "kind": "solar",
+   "date": "2040-11-04",
+   "utc": "2040-11-04T19:07:53Z",
+   "type": "Partial",
+   "magnitude": "0.8074",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2040Nov04P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2040-11-18",
+   "utc": "2040-11-18T19:03:31Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.4543",
+   "umbral_magnitude": "1.3991"
+  },
+  {
+   "kind": "solar",
+   "date": "2041-04-30",
+   "utc": "2041-04-30T11:51:12Z",
+   "type": "Total",
+   "magnitude": "1.0189",
+   "region": "Total: Angola, Democratic Republic of the Congo, Uganda, Kenya, Somalia Partial: Eastern South America, Africa, Antarctica, Middle East, South Asia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2041-05-16",
+   "utc": "2041-05-16T00:40:28Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.0765",
+   "umbral_magnitude": "0.0663"
+  },
+  {
+   "kind": "solar",
+   "date": "2041-10-25",
+   "utc": "2041-10-25T01:35:13Z",
+   "type": "Annular",
+   "magnitude": "0.9467",
+   "region": "Annular: Mongolia, Northeastern China, North Korea, Japan, Marshall Islands, Kiribati Partial: East Asia, Southeast Asia, Northeastern Australia, Oceania, Hawaii",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2041-11-08",
+   "utc": "2041-11-08T04:32:30Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.1675",
+   "umbral_magnitude": "0.1714"
+  },
+  {
+   "kind": "lunar",
+   "date": "2042-04-05",
+   "utc": "2042-04-05T14:27:36Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.8700",
+   "umbral_magnitude": "\u22120.2156"
+  },
+  {
+   "kind": "solar",
+   "date": "2042-04-20",
+   "utc": "2042-04-20T02:16:21Z",
+   "type": "Total",
+   "magnitude": "1.0614",
+   "region": "Total: Western Indonesia, Eastern Malaysia, Brunei, Philippines Partial: South Asia, Southeast Asia, Northern Australia, East Asia, Northeast Asia, Hawaii, Northwestern North America",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2042-09-29",
+   "utc": "2042-09-29T10:43:11Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9548",
+   "umbral_magnitude": "\u22120.0011"
+  },
+  {
+   "kind": "solar",
+   "date": "2042-10-14",
+   "utc": "2042-10-14T01:59:33Z",
+   "type": "Annular",
+   "magnitude": "0.93",
+   "region": "Annular: Andaman and Nicobar Islands, Thailand, Malaysia, Indonesia, East Timor, Australia, New Zealand Partial: Southeast Asia, Australia, Oceania, Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2042-10-28",
+   "utc": "2042-10-28T19:31:51Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.0080",
+   "umbral_magnitude": "\u22120.9740"
+  },
+  {
+   "kind": "lunar",
+   "date": "2043-03-25",
+   "utc": "2043-03-25T14:29:27Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.1920",
+   "umbral_magnitude": "1.1161"
+  },
+  {
+   "kind": "solar",
+   "date": "2043-04-09",
+   "utc": "2043-04-09T18:56:40Z",
+   "type": "Total (non-central)",
+   "magnitude": "1.0095",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2043Apr09T.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2043-09-19",
+   "utc": "2043-09-19T01:49:13Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2452",
+   "umbral_magnitude": "1.2575"
+  },
+  {
+   "kind": "solar",
+   "date": "2043-10-03",
+   "utc": "2043-10-03T03:00:40Z",
+   "type": "Annular (non-central)",
+   "magnitude": "0.9497",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2043Oct03A.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2044-02-28",
+   "utc": "2044-02-28T20:23:31Z",
+   "type": "Annular",
+   "magnitude": "0.96",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2044Feb28A.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2044-03-13",
+   "utc": "2044-03-13T19:35:56Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2322",
+   "umbral_magnitude": "1.2050"
+  },
+  {
+   "kind": "solar",
+   "date": "2044-08-23",
+   "utc": "2044-08-23T01:15:53Z",
+   "type": "Total",
+   "magnitude": "1.0364",
+   "region": "Total: Greenland, Nunavut, Northwest Territories, British Columbia, Alberta, Saskatchewan, Montana, North Dakota, South Dakota Partial: Northern Russia, Alaska, Western Canada, Western United States, Hawaii",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2044-09-07",
+   "utc": "2044-09-07T11:18:07Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.0879",
+   "umbral_magnitude": "1.0456"
+  },
+  {
+   "kind": "solar",
+   "date": "2045-02-16",
+   "utc": "2045-02-16T23:54:58Z",
+   "type": "Annular",
+   "magnitude": "0.9285",
+   "region": "Annular: New Zealand, Cook Islands, French Polynesia, Kiribati Partial: Australia, Antarctica, Oceania, Hawaii, Southwestern North America",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2045-03-03",
+   "utc": "2045-03-03T07:42:17Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9643",
+   "umbral_magnitude": "\u22120.0148"
+  },
+  {
+   "kind": "solar",
+   "date": "2045-08-12",
+   "utc": "2045-08-12T17:41:30Z",
+   "type": "Total",
+   "magnitude": "1.0774",
+   "region": "Total: California, Nevada, Utah, Colorado, New Mexico,[\\[d\\]](#cite_note-15) Kansas, Oklahoma, Texas, Arkansas, Louisiana, Mississippi, Alabama, Georgia \"Georgia (U.S. state)\"), Florida, Bahamas, Turks and Caicos Islands, Dominican Republic, Haiti, Venezuela, Trinidad and Tobago, Guyana, Suriname, French Guiana, Brazil Partial: Russian Far East, Hawaii, North America, Central America, Caribbean, Northern and Central South America, West Africa",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2045-08-27",
+   "utc": "2045-08-27T13:52:12Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.6845",
+   "umbral_magnitude": "\u22120.3899"
+  },
+  {
+   "kind": "lunar",
+   "date": "2046-01-22",
+   "utc": "2046-01-22T12:59:58Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.0365",
+   "umbral_magnitude": "0.0550"
+  },
+  {
+   "kind": "solar",
+   "date": "2046-02-05",
+   "utc": "2046-02-05T23:05:17Z",
+   "type": "Annular",
+   "magnitude": "0.9232",
+   "region": "Annular: Eastern Indonesia, Papua New Guinea, Solomon Islands, Kiribati, Hawaii, California, Oregon, Nevada, Idaho Partial: Indonesia, Philippines, Japan, Australia, Oceania, Western North America",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2046-07-18",
+   "utc": "2046-07-18T01:03:27Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.2824",
+   "umbral_magnitude": "0.2478"
+  },
+  {
+   "kind": "solar",
+   "date": "2046-08-02",
+   "utc": "2046-08-02T10:20:04Z",
+   "type": "Total",
+   "magnitude": "1.0531",
+   "region": "Total: Eastern Brazil, Angola, Namibian Panhandle, Botswana, South Africa, Eswatini, Southern Mozambique, Kerguelen Islands Partial: Eastern South America, Africa, East Antarctica",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2047-01-12",
+   "utc": "2047-01-12T01:23:35Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2665",
+   "umbral_magnitude": "1.2358"
+  },
+  {
+   "kind": "solar",
+   "date": "2047-01-26",
+   "utc": "2047-01-26T01:32:09Z",
+   "type": "Partial",
+   "magnitude": "0.8907",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2047Jan26P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2047-06-23",
+   "utc": "2047-06-23T10:51:22Z",
+   "type": "Partial",
+   "magnitude": "0.3129",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2047Jun23P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2047-07-07",
+   "utc": "2047-07-07T10:33:06Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.7326",
+   "umbral_magnitude": "1.7529"
+  },
+  {
+   "kind": "solar",
+   "date": "2047-07-22",
+   "utc": "2047-07-22T22:35:08Z",
+   "type": "Partial",
+   "magnitude": "0.3604",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2047Jul22P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "solar",
+   "date": "2047-12-16",
+   "utc": "2047-12-16T23:49:03Z",
+   "type": "Partial",
+   "magnitude": "0.8816",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2047Dec16P.png)",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2048-01-01",
+   "utc": "2048-01-01T06:51:15Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.2158",
+   "umbral_magnitude": "1.1297"
+  },
+  {
+   "kind": "solar",
+   "date": "2048-06-11",
+   "utc": "2048-06-11T12:57:44Z",
+   "type": "Annular",
+   "magnitude": "0.9441",
+   "region": "Annular: Colorado, Kansas, Nebraska, Missouri, Iowa, Minnesota, Illinois, Wisconsin, Michigan, Eastern Canada, Greenland, Iceland, Faroe Islands, Norway, Sweden, Estonia, Latvia, Lithuania, Belarus, Western Russia, Ukraine, Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, Afghanistan, Pakistan Partial: North America, Central America, Caribbean, Europe, North Africa, Middle East, Central Asia",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2048-06-26",
+   "utc": "2048-06-26T01:59:48Z",
+   "type": "Partial",
+   "penumbral_magnitude": "1.5841",
+   "umbral_magnitude": "0.6404"
+  },
+  {
+   "kind": "solar",
+   "date": "2048-12-05",
+   "utc": "2048-12-05T15:34:18Z",
+   "type": "Total",
+   "magnitude": "1.044",
+   "region": "Total: Chile, Argentina, Namibia, Botswana Partial: Southern and Central South America, Antarctica, Southern Africa",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2048-12-20",
+   "utc": "2048-12-20T06:25:07Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.9632",
+   "umbral_magnitude": "\u22120.1420"
+  },
+  {
+   "kind": "lunar",
+   "date": "2049-05-17",
+   "utc": "2049-05-17T11:23:57Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.7651",
+   "umbral_magnitude": "\u22120.2073"
+  },
+  {
+   "kind": "solar",
+   "date": "2049-05-31",
+   "utc": "2049-05-31T13:58:50Z",
+   "type": "Annular",
+   "magnitude": "0.9631",
+   "region": "Annular: Peru, Ecuador, Colombia, Brazil, Venezuela, Guyana, Suriname, Cape Verde, Senegal, Gambia, Mali, Guinea, Burkina Faso, C\u00f4te d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Congo, Democratic Republic of the Congo, Burundi, Tanzania Partial: Central America, Caribbean, Northern and Central South America, Southeastern United States, Africa, Southern Europe, Middle East",
+   "local_relevant": true
+  },
+  {
+   "kind": "lunar",
+   "date": "2049-06-15",
+   "utc": "2049-06-15T19:11:31Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.2526",
+   "umbral_magnitude": "\u22120.6970"
+  },
+  {
+   "kind": "lunar",
+   "date": "2049-11-09",
+   "utc": "2049-11-09T15:49:30Z",
+   "type": "Penumbral",
+   "penumbral_magnitude": "0.6821",
+   "umbral_magnitude": "\u22120.3541"
+  },
+  {
+   "kind": "solar",
+   "date": "2049-11-25",
+   "utc": "2049-11-25T05:32:39Z",
+   "type": "Hybrid",
+   "magnitude": "1.0057",
+   "region": "Total: Indonesia Annular: Saudi Arabia, Yemen, Micronesia Partial: East Africa, Middle East, Central Asia, South Asia, Southeast Asia, Australia",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2050-05-06",
+   "utc": "2050-05-06T22:29:19Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.1064",
+   "umbral_magnitude": "1.0779"
+  },
+  {
+   "kind": "solar",
+   "date": "2050-05-20",
+   "utc": "2050-05-20T20:41:41Z",
+   "type": "Hybrid",
+   "magnitude": "1.0038",
+   "region": "Hybrid: None Partial: New Zealand, Eastern Oceania, Western South America",
+   "local_relevant": false
+  },
+  {
+   "kind": "lunar",
+   "date": "2050-10-30",
+   "utc": "2050-10-30T03:19:03Z",
+   "type": "Total",
+   "penumbral_magnitude": "2.0356",
+   "umbral_magnitude": "1.0549"
+  },
+  {
+   "kind": "solar",
+   "date": "2050-11-14",
+   "utc": "2050-11-14T13:29:44Z",
+   "type": "Partial",
+   "magnitude": "0.8874",
+   "region": "![](https://en.wikipedia.org/wiki/File:SE2050Nov14P.png)",
+   "local_relevant": false
+  }
+ ]
+}

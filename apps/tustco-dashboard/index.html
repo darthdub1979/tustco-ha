@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tustco Dashboard - Local Home</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/lcars.css">
+</head>
+<body>
+  <header id="topbar">
+    <div class="brand">TUSTCO <span>// LOCAL HOME</span></div>
+    <div id="status" class="status">connecting...</div>
+    <div class="toolbar">
+      <button id="editBtn" title="Edit layout (E)">EDIT</button>
+      <button id="phoneBtn" title="Toggle single-column phone layout">PHONE</button>
+      <button id="themeBtn" title="Toggle LCARS / standard theme">LCARS</button>
+      <button id="addBtn" title="Add a card">+ CARD</button>
+      <button id="resetBtn" title="Restore starter layout">RESET</button>
+    </div>
+  </header>
+
+  <main id="canvas"></main>
+
+  <section id="addPanel" hidden>
+    <h2>Add a card</h2>
+    <label>Title <input id="newTitle" type="text" placeholder="Living Room TV"></label>
+    <label>Type
+      <select id="newType">
+        <option value="state">State</option>
+        <option value="media">Media player (with on/off)</option>
+        <option value="chart">History chart (overlay)</option>
+        <option value="group">Group / logical device</option>
+        <option value="clock">Clock</option>
+        <option value="text">Text</option>
+      </select>
+    </label>
+    <label id="entityLabel">Entity <input id="newEntity" type="text" list="entityList" placeholder="media_player.tv_samsung_6_series_55"></label>
+    <datalist id="entityList"></datalist>
+    <label id="entitiesLabel" hidden>Entities (comma separated) <input id="newEntities" type="text" placeholder="sensor.a,sensor.b"></label>
+    <div class="panelActions">
+      <button id="addConfirm">ADD</button>
+      <button id="addCancel">CANCEL</button>
+    </div>
+  </section>
+
+  <div id="hint">Press <b>E</b> to edit · drag the card header · drag the bottom-right corner to resize</div>
+  <script src="/app.js"></script>
+</body>
+</html>

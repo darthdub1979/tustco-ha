@@ -1,0 +1,29 @@
+alert:
+  name: Send color beacon
+  description: Pulse a Tustco bulb with a color message, then restore its previous color.
+  fields:
+    host:
+      name: Bulb host
+      description: IP address of the bulb running tustco-alert firmware.
+      required: false
+      example: "192.168.1.219"
+      selector:
+        text:
+    color:
+      name: Color
+      description: Hex RGB, for example FF0000 (red alert) or FFD12B (yellow caution).
+      required: false
+      default: "FF0000"
+      example: "FF0000"
+      selector:
+        text:
+    count:
+      name: Pulses
+      description: Number of flashes.
+      required: false
+      default: 3
+      selector:
+        number:
+          min: 1
+          max: 20
+          mode: box

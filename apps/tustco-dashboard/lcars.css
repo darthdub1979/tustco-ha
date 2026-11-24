@@ -1,0 +1,94 @@
+/* Tustco LCARS skin - built from the general LCARS visual language.
+   Own CSS, local fonts only. No Google Fonts, no card-mod, no copied assets. */
+body.lcars {
+  --bg: #03040d;
+  --panel: #0b1020;
+  --line: #243050;
+  --text: #f2f4ff;
+  --dim: #a3b0d6;
+  --accent: #ff9c2c;
+  background: var(--bg);
+  font-family: "DejaVu Sans Condensed", "Liberation Sans Narrow", "DejaVu Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: .4px;
+}
+body.lcars #topbar {
+  height: 76px;
+  background: #05060f;
+  border-bottom: 6px solid var(--accent);
+  padding: 0 26px;
+  position: relative;
+}
+body.lcars #topbar::before {
+  content: "";
+  position: absolute; left: 0; top: 0; bottom: 0; width: 92px;
+  background: var(--accent);
+  border-radius: 0 42px 42px 0;
+}
+body.lcars .brand {
+  position: relative;
+  font-size: 27px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #05060f;
+  padding-left: 6px;
+}
+body.lcars .brand span { color: #db9b52; letter-spacing: 2px; }
+body.lcars button {
+  border: 0;
+  border-radius: 0 12px 12px 0;
+  background: #26345c;
+  color: #ffd9a0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+body.lcars button:hover { background: #3a4d84; }
+body.lcars button.active { background: #ffd9a0; color: #05060f; }
+body.lcars .status { color: #ffcf86; text-transform: uppercase; font-size: 13px; }
+body.lcars .status.live { color: #7effc4; }
+body.lcars .status.err { color: #ff6b6b; }
+
+body.lcars #canvas {
+  top: 76px;
+  background: #03040d;
+  background-image: none;
+}
+body.lcars #canvas::before {
+  content: "";
+  position: fixed; left: 0; bottom: 0; width: 260px; height: 46px;
+  background: linear-gradient(90deg, #ff9c2c 0 55%, #9a8cff 55% 78%, #5aa9ff 78%);
+  border-radius: 0 26px 0 0;
+  pointer-events: none;
+  z-index: 1;
+}
+body.lcars .card {
+  background: var(--panel);
+  border: 0;
+  border-left: 8px solid var(--accent);
+  border-radius: 0 20px 20px 0;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .6);
+}
+body.lcars .card[data-type="chart"] { border-left-color: #5aa9ff; }
+body.lcars .card[data-type="media"] { border-left-color: #ff6a2b; }
+body.lcars .card[data-type="group"] { border-left-color: #9a8cff; }
+body.lcars .card[data-type="clock"] { border-left-color: #ffd9a0; }
+body.editing.lcars .card { border-left-style: dashed; }
+body.lcars .card-head {
+  background: #101a34;
+  border-bottom: 2px solid #2b3a66;
+  color: #ffd9a0;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  border-radius: 0 12px 0 0;
+}
+body.lcars .bigval { color: #ffb44d; font-size: 48px; }
+body.lcars .state-badge { background: #17234a; color: #ffd9a0; border-radius: 0 8px 8px 0; }
+body.lcars .state-badge.off { color: #7b89ae; }
+body.lcars .group-row { border-bottom-color: #1d294a; }
+body.lcars .group-row .v { color: #ffcf86; }
+body.lcars .clocktime { color: #ff9c2c; letter-spacing: 3px; }
+body.lcars .clockdate { color: #9fb0d6; text-transform: uppercase; }
+body.lcars .resize { background: #ffd9a0; }
+body.lcars #addPanel { border-color: #ff9c2c; }
+body.lcars #hint { color: #ffcf86; }

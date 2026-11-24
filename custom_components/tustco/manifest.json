@@ -1,0 +1,10 @@
+{
+  "domain": "tustco",
+  "name": "Tustco Local Tools",
+  "version": "0.1.0",
+  "documentation": "https://github.com/darthdub1979/tustco-ha",
+  "dependencies": [],
+  "codeowners": ["@tustco"],
+  "requirements": [],
+  "iot_class": "local_polling"
+}

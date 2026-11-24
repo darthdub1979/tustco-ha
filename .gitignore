@@ -1,0 +1,29 @@
+# Binaries and images are released separately, never committed
+*.img
+*.bin
+*.gz
+*.zip
+*.xz
+*.map
+
+# Local state and secrets
+.storage/
+*.token
+*.key
+*.pem
+.env
+secrets.yaml
+credentials*
+*_credentials*
+
+# Runtime / caches
+__pycache__/
+*.pyc
+*.log
+events.jsonl
+state.json
+layout.json
+
+# Editor noise
+*.swp
+.DS_Store

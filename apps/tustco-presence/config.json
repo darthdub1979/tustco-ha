@@ -1,0 +1,14 @@
+{
+  "poll_seconds": 2,
+  "http_timeout_seconds": 3,
+  "baseline_samples": 30,
+  "drop_dbm": 5,
+  "confirm_samples": 2,
+  "cooldown_seconds": 30,
+  "return_margin_dbm": 3,
+  "web_port": 8126,
+  "devices": [
+    { "name": "Carport bulb", "ip": "192.168.1.234" },
+    { "name": "Back bulb", "ip": "192.168.1.219" }
+  ]
+}
