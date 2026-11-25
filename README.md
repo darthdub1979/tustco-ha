@@ -31,6 +31,15 @@ real numbers, so you can judge it for yourself before you try it.
   notes. These are **not turnkey**; see `tools/README.md` for prerequisites.
 - `patches/` - how we run HACS 1.26.0 without a GitHub account.
 
+## Guides
+
+- [`docs/flash-merkury-bulbs-to-tasmota.md`](docs/flash-merkury-bulbs-to-tasmota.md)
+  — the **first hack only**: OTA-flashing Merkury / ESP8285 bulbs to Tasmota
+  with `tuya-convert`, including the binary PSK-identity fix that made these
+  specific bulbs work. No soldering, no cloud account. Custom RGB firmware,
+  circadian scheduling and everything after the first flash are deliberately
+  out of scope.
+
 ## Install via HACS (after the GitHub repo exists)
 
 1. In HA: **Settings > Devices & Services > HACS > Custom repositories**.
