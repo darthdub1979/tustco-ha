@@ -6,6 +6,16 @@ subscription, no telemetry. Everything talks over your LAN.
 This repository is the **code and documentation**. Binary SD images and
 firmware builds are intentionally not stored in Git.
 
+## Why this is free
+
+Nothing here is sold. No charge, no license key, no account, no subscription.
+The point is to help somebody take an original Raspberry Pi 1 — the one
+gathering dust in a drawer — and turn it into a real local server. Max out the
+hardware it already has. The build scripts and configs are the whole gift.
+
+The companion **Tustco Builds** channel shows what mine actually does, with
+real numbers, so you can judge it for yourself before you try it.
+
 ## What's in it
 
 - `custom_components/tustco/` - a small Home Assistant integration:
